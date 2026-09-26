@@ -6,35 +6,40 @@
 #    By: imuondo <imuondo@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/09/22 19:46:59 by imuondo           #+#    #+#              #
-#    Updated: 2026/09/22 19:52:24 by imuondo          ###   ########.fr        #
+#    Updated: 2026/09/26 18:40:06 by imuondo          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+from pathlib import Path
 import rasterio
 from rasterio.transform import from_origin
 import os
 import xarray as xr
 
-os.makedirs("data/population", exist_ok=True)
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-def obter_dados_da_nasa(ano):
+NASA_DIR = BASE_DIR / "data" / "nasa" / "population.nc"
+
+
+
+def get_nasa_data(year):
 
     dataset = xr.open_dataset(
         "data/nasa/population.nc"
     )
 
     matriz = dataset["population"].sel(
-        year=ano
+        year=year
     ).values
 
     return matriz
 
-for ano in range(2000, 2101):
+for year in range(2000, 2101):
 
-    caminho = f"data/population/population_{ano}.tif"
+    caminho = f"data/population/population_{year}.tif"
 
-    print(f"Processando {ano}...")
-    matriz = obter_dados_da_nasa(ano)
+    print(f"Processando {year}...")
+    matriz = get_nasa_data(year)
     with rasterio.open(
         caminho,
         "w",
@@ -43,8 +48,7 @@ for ano in range(2000, 2101):
         width=matriz.shape[1],
         count=1,
         dtype=matriz.dtype,
-        crs="EPSG:4326",
-        transform=transform
+        crs="EPSG:4326"
     ) as dst:
 
         dst.write(matriz, 1)
