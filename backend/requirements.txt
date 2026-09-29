@@ -1,0 +1,5 @@
+requests
+rasterio
+xarray
+fastapi
+netCDF4 h5netcdf

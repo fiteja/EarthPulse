@@ -1,0 +1,702 @@
+[
+    {
+        "id": "C3540929631-ESDIS",
+        "title": "Global One-Eighth Degree Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01",
+        "summary": "The Global One-Eighth Degree Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01, data set consists of global urban, rural, and total population data for the base year 2000, and population projections at ten-year intervals for 2010-2100 at a resolution of one-eighth degree (7.5 arc-minutes), consistent both quantitatively and qualitatively with the SSPs. Spatial demographic data are key inputs for the analysis of land use, energy use, and emissions, as well as for the assessment of climate change vulnerability, impacts, and adaptation. The SSPs are developed to support future climate and global change research and the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540932167-ESDIS",
+        "title": "Global 1-km Downscaled Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01",
+        "summary": "The Global 1-km Downscaled Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01, data set consists of global urban, rural, and total \npopulaton for the base year 2000, and population projections at ten-year intervals for 2010-2100 at a resolution of 1-km (about 30 arc-seconds), consistent both quantitatively and qualitatively with the SSPs. This 1-km data set is a downscaled version of the one-eighth degree (7.5 arc-minutes) data published in Jones and O'Neill (2016). \nThe downscaling methods were published in Gao (2017). Spatial demographic data are key inputs for the analysis of land use, energy use, and emissions, as well as for the \nassessment of climate change vulnerability, impacts, and adaptation. The SSPs are developed to support future climate and global change research and the Intergovernmental Panel \non Climate Change (IPCC) Sixth Assessment Report (AR6).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550189872-ESDIS",
+        "title": "Country-Level Population and Downscaled Projections Based on the SRES A1, B1, and  A2 Scenarios, 1990-2100",
+        "summary": "The Country-Level Population and Downscaled Projections Based on Special Report on Emissions Scenarios (SRES) A1, B1, and A2 Scenarios, 1990-2100, were adopted in 2000 from population projections realized at the International Institute for Applied Systems Analysis (IIASA) in 1996. The Intergovernmental Panel on Climate Change (IPCC) SRES A1 and B1 scenarios both used the same IIASA \"rapid\" fertility transition projection, which assumes low fertility and low mortality rates. The SRES A2 scenario used a corresponding IIASA \"slow\" fertility transition projection (high fertility and high mortality rates). Both IIASA low and high projections are performed for 13 world regions including North Africa, Sub-Saharan Africa, China and Centrally Planned Asia, Pacific Asia, Pacific OECD, Central Asia, Middle East, South Asia, Eastern Europe, European part of the former Soviet Union, Western Europe, Latin America, and North America. This data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540911912-ESDIS",
+        "title": "Global Population Projection Grids Based on Shared Socioeconomic Pathways (SSPs), Downscaled 1-km Grids, 2010-2100",
+        "summary": "The Global Population Projection Grids Based on Shared Socioeconomic Pathways (SSPs), Downscaled 1-km Grids, 2010-2100 consists of global spatial population projections at a resolution of 1-km (about 30 arc-seconds) for urban, rural, and total population, and at ten-year intervals for 2010-2100. The projections are consistent both quantitatively and qualitatively with the Shared Socioeconomic Pathways (SSPs). This data set is a downscaled version of the Global Population Projection Grids Based on SSPs, v1 (2010-2100), published in Jones and O'Neill (2016). The downscaling methods were published in Gao (2017). Spatial demographic projections are key inputs for the analysis of land use, energy use, and emissions, as well as for the assessment of climate change vulnerability, impacts, and adaptation. The SSPs are developed to support future climate and global change research and the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6). This data set is distributed in GeoTIFF and netCDF formats.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540911552-ESDIS",
+        "title": "Global Population Projection Grids Based on Shared Socioeconomic Pathways (SSPs), 2010-2100",
+        "summary": "The Global Population Projection Grids Based on Shared Socioeconomic Pathways (SSPs), 2010-2100 consists of global spatial population projections at a resolution of one-eighth degree (7.5 arc-minutes) for urban, rural, and total population, consistent both quantitatively and qualitatively, with the SSPs at ten-year intervals for 2010-2100. Spatial demographic projections are key inputs for the analysis of land use, energy use, and emissions, as well as for the assessment of climate change vulnerability, impacts, and adaptation. The SSPs are developed to support future climate and global change research and the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6). This data set is produced based on a clear need for plausible alternative projections of spatial distribution of the population that can represent patterns of development consistent with the SSPs.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550185812-ESDIS",
+        "title": "Country-Level Population and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100",
+        "summary": "The Country-Level Population and Downscaled Projections Based on Special Report on Emissions Scenarios (SRES) B2 Scenario, 1990-2100, were based on the UN 1998 Medium Long Range Projection for the years 1995 to 2100. The official version projects population for 8 regions of the world including Africa, Asia (minus India and China), India, China, Europe, Latin America, Northern America, and Oceania. This data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550196903-ESDIS",
+        "title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2",
+        "summary": "The Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2 data set consists of country-level estimates of urban population, rural population, total population and land area country-wide and in LECZs for years 1990, 2000, 2010, and 2100. The LECZs were derived from Shuttle Radar Topography Mission (SRTM), 3 arc-second (~90m) data which were post processed by ISciences LLC to include only elevations less than 20m contiguous to coastlines; and to supplement SRTM data in northern and southern latitudes. The population and land area statistics presented herein are summarized at the low coastal elevations of less than or equal to 1m, 3m, 5m, 7m, 9m, 10m, 12m, and 20m. Additionally, estimates are provided for elevations greater than  20m, and nationally. The spatial coverage of this data set includes 202 of the 232 countries and statistical areas delineated in the Gridded Rural-Urban Mapping Project version 1 (GRUMPv1) data set. The 30 omitted areas were not included because they were landlocked, or otherwise lacked coastal features. This data set makes use of the population inputs of GRUMPv1 allocated at 3 arc-seconds to match the SRTM elevations, and at 30 arc-seconds resolution in order to reflect uncertainty levels in the product resulting from the interplay of input population data resolutions (based on census Units) and the elevation data. Urban and rural areas are differentiated by the GRUMPv1 Urban Extents. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540928053-ESDIS",
+        "title": "Groundswell Africa Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050",
+        "summary": "The Groundswell Africa Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050 data set provides a baseline population distribution for 2010 and projections from 2020 to 2050, in five-year increments, of population distribution and internal climate-related and other migration for West Africa and the Lake Victoria Basin. The projections are produced using the NCAR-CIDR Spatial Population Downscaling Model developed by the CUNY Institute for Demographic Research (CIDR) and the National Center for Atmospheric Research (NCAR). The model incorporates assumptions based on future development scenarios (Shared Socioeconomic Pathways or SSPs) and emissions trajectories (Representative Concentration Pathways or RCPs). The SSPs include SSP2, representing a middle-of-the road future, and SSP4, representing an unequal development future. Climate models using low and high emissions scenarios, RCP2.6 and RCP8.5, then drive climate impact models on water availability, crop productivity, and pasturelands (where cropping does not occur), as well as flood impacts, from the Inter-Sectoral Impacts Model Intercomparison Project (ISIMIP). Sea-level rise impacts in the coastal zone are estimated to be 1 meter under RCP2.6 and 2 meters under RCP8.5, to account for potential storm surge or coastal flooding. Four scenarios are generated, a pessimistic reference scenario combining SSP4 and RCP8.5, a more climate-friendly scenario combining SSP4 and RCP2.6, a more inclusive development scenario combining SSP2 and RCP8.5, and an optimistic scenario combining SSP2 and RCP2.6. Each scenario provides an ensemble average of four model runs combining different climate impact models as well as confidence intervals to better capture uncertainties. The modeling work was funded and developed jointly with The World Bank.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2232848719-CEOS_EXTRA",
+        "title": "Africa Population Density Model (Land Degradation Project), 1992",
+        "summary": "The Africa Population density model represents ranges of population\ndensity of inhabitants per square kilometer. The estimated population\ndensities are expressed on a regularly spaced latitude/longitude\nraster grid covering Africa with an approximate resolution of 10 km x\n10 km at the Equator.  The data set which is an assessment of one of\nthe factors causing soil degradation, namely the spatial distribution\nand density of population. It was developed for the GEMS/UNITAR Africa\nDatabase and later used for GLASOD.\n\nThe data sources include: 600 African towns and cities with figures\nstandardized to 1988 values ( a combination of 479 cities from\nBirkbeck College and 363 cities in 51 African countries from PC Globe\n3.0); UNEP/FAO population data from the 1984 Africa database; the\nSierra Club Wilderness Area IUCN Protected Areas, used to delimit\nareas with extremely sparse populations and treated as having a\ndensity of less than one person per square kilometer.\n\nFor methodology and further detail refer to references listed: UN\nInstitute for Training & Research (UNITAR). GEMS/UNITAR Africa\nDatabase.  Deichmann, U. and Lars Eklundh. Global Digital Datasets for\nLand Degradation Studies (1991), GRID Case Studies No.4. UNEP/GRID,\nNairobi.  UNEP. World Atlas of Desertification (1992). Edward Arnold:\nA division of Hodder and Stoughton, London.\n\nProjection          :Geographic\nType                :Raster\nFormat              :IDRISI\nRelated files       :POPDENSL.E00, POPDENGR.E00\nAssociated files    :POPDENS.DOC and POPDENS.PAL",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550195325-ESDIS",
+        "title": "Global 15 x 15 Minute Grids of the Downscaled Population Based on the SRES B2 Scenario, 1990 and 2025",
+        "summary": "The Global 15x15 Minute Grids of the Downscaled Population Based on the Special Report on Emissions Scenarios (SRES) B2 Scenario, 1990 and 2025, are geospatial distributions of the downscaled population per Unit area (population densities). These global grids were generated using the Country-level Population and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100 data set, and CIESIN's Gridded Population of World, Version 2 (GPWv2) data set as the base map. The 1990 GPW was used as the base distribution and the country-level downscaled projections were used to replace population estimates of 1990 in GPW and 2025. The fractional distribution of the population at each grid cell is the same as the 1990 GPW, sub-nationally. This data set is produced  and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540928427-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates, Revision 11 consists of UN WPP-adjusted population estimates and densities for the years 2000, 2005, 2010, 2015 and 2020, as well as the basic demographic characteristics (age and sex) for the year 2010. The data set also includes administrative name, land and water area, and data context by administrative Unit center point (centroid) location. The center points are based on approximately 13.5 million input administrative Units used in GPWv4, therefore, these files require hardware and software that can read large amounts of data into memory.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540909447-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Count Adjusted to Match 2015 Revision of UN WPP Country Totals, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Count Adjusted to Match 2015 Revision of UN WPP Country Totals, Revision 11 consists of estimates of human population (number of persons per pixel) consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match the 2015 Revision of the United Nation's World Population Prospects (UN WPP) country totals for the years 2000, 2005, 2010, 2015, and 2020.ï¿½A proportional allocation gridding algorithm, utilizing approximately 13.5 million national and sub-national administrative Units, was used to assign population counts to 30 arc-second grid cells. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research commUnities, the 30 arc-second adjusted count data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540929692-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision of UN WPP Country Totals, Revision 11 consists of estimates of human population density (number of persons per square kilometer) based on counts consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match the 2015 Revision of the United Nation's World Population Prospects (UN WPP) country totals, for the years 2000, 2005, 2011, 2015, and 2020. A proportional allocation gridding algorithm, utilizing approximately 13.5 million national and sub-national administrative Units, was used to assign UN WPP-adjusted population counts to 30 arc-second grid cells. The density rasters were created by dividing the UN WPP-adjusted population count raster for a given target year by the land area raster. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research commUnities, the 30 arc-second adjusted count data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions to produce density rasters at these resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540918004-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Count, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Count, Revision 11 consists of estimates of human population (number of persons per pixel), consistent with national censuses and population registers, for the years 2000, 2005, 2010, 2015, and 2020. A proportional allocation gridding algorithm, utilizing approximately 13.5 million national and sub-national administrative Units, was used to assign population counts to 30 arc-second grid cells. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research commUnities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540910651-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 11 consists of estimates of human population density (number of persons per square kilometer) based on counts consistent with national censuses and population registers, for the years 2000, 2005, 2010, 2015, and 2020.ï¿½A proportional allocation gridding algorithm, utilizing approximately 13.5 million national and sub-national administrative Units, was used to assign population counts to 30 arc-second grid cells. The population density rasters were created by dividing the population count raster for a given target year by the land area raster. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research commUnities, the 30 arc-second count data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions to produce density rasters at these resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540910919-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates consists of UN-adjusted estimates of human population counts and densities for the years 2000, 2005, 2010, 2015 and 2020 by administrative unit center point (centroid) location. Specifically, the population data were adjusted to the 2015 Revision of UN World Population Prospects. The center points are based on approximately 12.5 million input administrative units used in GPWv4. Additionally, the administrative unit names, unit areas, and data context of the units are included.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540931688-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Count Adjusted to Match 2015 Revision of UN WPP Country Totals",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Count Adjusted to Match 2015 Revision of UN WPP Country Totals consists of estimates of human population consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match 2015 Revision of UN World Population Prospects country totals for the years 2000, 2005, 2010, 2015, and 2020. A proportional allocation gridding algorithm, utilizing approximately 12.5 million national and sub-national administrative units, is used to assign population values to 30 arc-second (~1 km) grid cells. The grids contain estimates of the number of persons per grid cell.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540931246-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Count Adjusted to Match 2015 Revision of UN WPP Country Totals, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Count Adjusted to Match 2015 Revision of UN WPP Country Totals, Revision 10 consists of estimates of human population (number of persons per pixel) consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match the 2015 Revision of the United Nation's World Population Prospects (UN WPP) country totals for the years 2000, 2005, 2010, 2015, and 2020.&#160;A proportional allocation gridding algorithm, utilizing approximately 13.5 million national and sub-national administrative units, was used to assign population counts to 30 arc-second grid cells. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research communities, the 30 arc-second adjusted count data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540929687-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision of UN WPP Country Totals consists of estimates of human population density, based on counts consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match the 2015 Revision of UN World Population Prospects country totals for the years 2000, 2005, 2010, 2015, and 2020. A proportional allocation gridding algorithm, utilizing approximately 12.5 million national and sub-national administrative units, is used to assign population values to 30 arc-second (~1 km) grid cells. The population density grids are derived by dividing the population count grids by the land area grids. The pixel values represent persons per square kilometer.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540912079-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision of UN WPP Country Totals, Revision 10 consists of estimates of human population density (number of persons per square kilometer) based on counts consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match the 2015 Revision of the United Nation's World Population Prospects (UN WPP) country totals, for the years 2000, 2005, 2010, 2015, and 2020. A proportional allocation gridding algorithm, utilizing approximately 13.5 million national and sub-national administrative units, was used to assign UN WPP-adjusted population counts to 30 arc-second grid cells. The density rasters were created by dividing the UN WPP-adjusted population count raster for a given target year by the land area raster. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research communities, the 30 arc-second adjusted count data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions to produce density rasters at these resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540911768-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Count",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Count Adjusted to Match 2015 Revision of UN WPP Country Totals consists of estimates of human population consistent with national censuses and population registers with respect to relative spatial distribution, but adjusted to match 2015 Revision of UN World Population Prospects country totals for the years 2000, 2005, 2010, 2015, and 2020. A proportional allocation gridding algorithm, utilizing approximately 12.5 million national and sub-national administrative units, is used to assign population values to 30 arc-second (~1 km) grid cells. The grids contain estimates of the number of persons per grid cell.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540929101-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Count, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Count, Revision 10 consists of estimates of human population (number of persons per pixel), consistent with national censuses and population registers, for the years 2000, 2005, 2010, 2015, and 2020. A proportional allocation gridding algorithm, utilizing approximately 13.5 million national and sub-national administrative units, was used to assign population counts to 30 arc-second grid cells. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research communities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540917665-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Density",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Density consists of estimates of human population density based on counts consistent with national censuses and population registers, for the years 2000, 2005, 2010, 2015, and 2020. A proportional allocation gridding algorithm, utilizing approximately 12.5 million national and sub-national administrative units, is used to assign population values to 30 arc-second (~1 km) grid cells. The population density grids are derived by dividing the population count grids by the land area grids. The pixel values represent persons per square kilometer.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540930077-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 10 consists of estimates of human population density (number of persons per square kilometer) based on counts consistent with national censuses and population registers, for the years 2000, 2005, 2010, 2015, and 2020.&#160;A proportional allocation gridding algorithm, utilizing approximately 13.5 million national and sub-national administrative units, was used to assign population counts to 30 arc-second grid cells. The population density rasters were created by dividing the population count raster for a given target year by the land area raster. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research communities, the 30 arc-second count data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions to produce density rasters at these resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540930141-ESDIS",
+        "title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 4 (PLACE IV)",
+        "summary": "The National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 4 (PLACE IV) provides measures of population (head counts) and land area (square kilometers) as totals and by urban and rural designation, within multiple biophysical themes for 248 statistical areas (countries and other territories recognized by the United Nations (UN)), UN geographic regions and subregions, and World Bank economic classifications. It improves upon previous versions by providing these estimates at both the national level, and where possible, at subnational administrative level 1 for the years 2000, 2005, 2010, 2015, and 2020, and by 5-year and broad age groups for the year 2010.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3552503612-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): Centroids",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): Centroids consists of estimates of human population counts and densities for the years 1990, 1995, 2000, 2005, 2010, and 2015 by administrative Unit centroid location. The centroids are based on the 399,781 input administrative Units used in GPWv3. In addition to population counts and variables, the centroids have associated administrative Unit names and the land area of contained within the administrative Unit. GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3552619247-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): Population Count Grid, Future Estimates",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): Population Count Grid, Future Estimates consists of estimates of human population for the years 2005, 2010, and 2015 by 2.5 arc-minute grid cells and associated data sets dated circa 2000. A proportional allocation gridding algorithm, utilizing more than 300,000 national and sub-national administrative Units, is used to assign population values to grid cells. The population counts that the grids are derived from are extrapolated based on a combination of subnational growth rates from census dates and national growth rates from United Nations statistics. All of the grids have been adjusted to match United Nations national level population estimates. The population count grids contain estimates of the number of persons per grid cell. The grids are available in various GIS-compatible data formats and geographic extents (global, continent [Antarctica not included], and country levels). GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540930618-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): Population Density Grid, Future Estimates",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): Population Density Grid, Future EstimatesFuture Estimates consists of estimates of human population for the years 2005, 2010, and 2015 by 2.5 arc-minute grid cells. A proportional allocation gridding algorithm, utilizing more than 300,000 national and sub-national administrative Units, is used to assign population values to grid cells. The future estimate population values are extrapolated based on a combination of subnational growth rates from census dates and national growth rates from United Nations statistics. All of the grids have been adjusted to match United Nations national level population estimates. The population density grids are derived by dividing the population count grids by the land area grid and represent persons per square kilometer. The grids are available in various GIS-compatible data formats and geographic extents (global, continent [Antarctica not included], and country levels). GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550190429-ESDIS",
+        "title": "Global Human Settlement Layer: Population and Built-Up Estimates, and Degree of Urbanization Settlement Model Grid",
+        "summary": "The Global Human Settlement Layer: Population and Built-Up Estimates, and Degree of Urbanization Settlement Model Grid data set provides gridded data on human population (GHS-POP), built-up area (GHS-BUILT), and degree of urbanization (GHS-SMOD) across four time periods: 1975, 1990, 2000, and 2014 (BUILT) or 2015 (POP, SMOD). GHS-BUILT describes the percent built-up area for each 30 arc-second grid cell (approximately 1 km at the equator) based on Landsat imagery from each of the four time periods. GHS-POP consists of census data from the 2010 round of global census from Gridded Population of the World, Version 4, Revision 10 (GPWv4.10) spatially-allocated within census Units based on the percent built-up areas from GHS-BUILT. GHS-SMOD uses GHS-BUILT and GHS-POP in order to develop a standardized classification of degree of urbanization grid. The original data from the Joint Research Centre of the European Commission (JRC-EC) has been combined into a single data package in GeoTIFF format and reprojected from Mollweide Equal Area into WGS84 at 9 arc-second and 30 arc-second horizontal resolutions in order to support integration with a variety of global raster data sets.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540929279-ESDIS",
+        "title": "Low Elevation Coastal Zone (LECZ) Global Delta Urban-Rural Population and Land Area Estimates, Version 1",
+        "summary": "The Low Elevation Coastal Zone (LECZ) Global Delta Urban-Rural Population and Land Area Estimates, Version 1 data set provides country-level estimates of urban, quasi-urban, rural, and total population (count), land area (square kilometers), and built-up areas in river delta- and non-delta contexts for 246 statistical areas (countries and other UN-recognized territories) for the years 1990, 2000, 2014 and 2015. The population estimates are disaggregated such that compounding risk factors including elevation, settlement patterns, and delta zones can be cross-examined. The Intergovernmental Panel on Climate Change (IPCC) recently concluded that without significant adaptation and mitigation action, risk to coastal commUnities will increase at least one order of magnitude by 2100, placing people, property, and environmental resources at greater risk. Greater-risk zones were then generated: 1) the global extent of two low-elevation zones contiguous to the coast, one bounded by an upper elevation of 10m (LECZ10), and one by an upper elevation of 5m (LECZ05); 2) the extent of the world's major deltas; 3) the distribution of people and built-up area around the world; 4) the extents of urban centers around the world. The data are layered spatially, along with political and land/water boundaries, allowing the densities and quantities of population and built-up area, as well as levels of urbanization (defined as the share of population living in \"urban centers\") to be estimated for any country or region, both inside and outside the LECZs and deltas, and at two points in time (1990 and 2015). In using such estimates of populations living in 5m and 10m LECZs and outside of LECZs, policymakers can make informed decisions based on perceived exposure and vulnerability to potential damages from sea level rise.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540930157-ESDIS",
+        "title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3",
+        "summary": "The Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3 data set contains land areas with urban, quasi-urban, rural, and total populations (counts) within the LECZ for 234 countries and other recognized territories for the years 1990, 2000, and 2015. This data set updates initial estimates for the LECZ population by drawing on a newer collection of input data, and provides a range of estimates for at-risk population and land area. Constructing accurate estimates requires high-quality and methodologically consistent input data, and the LECZv3 evaluates multiple data sources for population totals, digital elevation model, and spatially-delimited urban classifications. Users can find the paper \"Estimating Population and Urban Areas at Risk of Coastal Hazards, 1990-2015: How data choices matter\" (MacManus, et al. 2021) in order to evaluate selected inputs for modeling Low Elevation Coastal Zones. According to the paper, the following are considered core data sets for the purposes of LECZv3 estimates: Multi-Error-Removed Improved-Terrain Digital Elevation Model (MERIT-DEM), Global Human Settlement (GHSL) Population Grid R2019 and Degree of Urbanization Settlement Model Grid R2019a v2, and the Gridded Population of the World, Version 4 (GPWv4), Revision 11. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) and the City University of New York (CUNY) Institute for Demographic Research (CIDR).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550191794-ESDIS",
+        "title": "Population Exposure Estimates in Proximity to Nuclear Power Plants, Locations",
+        "summary": "The Population Exposure Estimates in Proximity to Nuclear Power Plants, Locations data set combines information from a global data set developed by Declan Butler of Nature News and the Power Reactor Information System (PRIS), an up-to-date database of nuclear reactors maintained by the International Atomic Energy Agency (IAEA). The locations of nuclear reactors around the world are represented as point features associated with reactor specification and performance history attributes as of March 2012.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3551683602-ESDIS",
+        "title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 3 (PLACE III)",
+        "summary": "The National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 3 (PLACE III) data set contains estimates of national-level aggregations in urban, rural, and total designations of territorial extent and population size by biome, climate zone, coastal proximity zone, elevation zone, and population density zone, for 232 statistical areas (countries and other UN recognized territories). This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540911253-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Basic Demographic Characteristics, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Basic Demographic Characteristics, Revision 11 consists of estimates of human population by age and sex as counts (number of persons per pixel) and densities (number of persons per square kilometer), consistent with national censuses and population registers, for the year 2010. To estimate the male and female populations by age in 2010, the proportions of males and females in each 5-year age group from ages 0-4 to ages 85+ for the given census year were calculated. These proportions were then applied to the 2010 estimates of the total population to obtain 2010 estimates of male and female populations by age. In some cases, the spatial resolution of the age and sex proportions was coarser than the resolution of the total population estimates to which they were applied. The population density rasters were created by dividing the population count rasters by the land area raster. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research commUnities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540929882-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): National Identifier Grid, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): National Identifier Grid, Revision 11 is a raster representation of nation-states in GPWv4 for use in aggregating population data. This data set was produced from the input census Units which were used to create a raster surface where pixels that cover the same census data source (most often a country or territory) have the same value. Note that these data are not official representations of country boundaries; rather, they represent the area covered by the input data. In cases where multiple countries overlapped a given pixel (e.g. on national borders), the pixels were assigned the country code of the input data set which made up the majority of the land area. The data file was produced as a global raster at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research commUnities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions. Each level of aggregation results in the loss of one or more countries with areas smaller than the cell size of the final raster. Rasters of all resolutions were also converted to polygon shapefiles.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540932063-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Basic Demographic Characteristics, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Basic Demographic Characteristics, Revision 10 consists of estimates of human population by age and sex as counts (number of persons per pixel) and densities (number of persons per square kilometer), consistent with national censuses and population registers, for the year 2010. To estimate the male and female populations by age in 2010, the proportions of males and females in each 5-year age group from ages 0-4 to ages 85+ for the given census year were calculated. These proportions were then applied to the 2010 estimates of the total population to obtain 2010 estimates of male and female populations by age. In some cases, the spatial resolution of the age and sex proportions was coarser than the resolution of the total population estimates to which they were applied. The population density rasters were created by dividing the population count rasters by the land area raster. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research communities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540928631-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Data Quality Indicators, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Data Quality Indicators, Revision 10 consists of three data layers created to provide context for the population count and density rasters, and explicit information on the spatial precision of the input boundary data. The Data Context raster explains pixels with a \"0\" population estimate in the population count and density rasters based on information included in the census documents, such as areas that are part of a national park, areas that have no households, etc. The Water Mask raster distinguishes between pixels that are completely water and/or ice (Total Water Pixels) and pixels that also contain land (Partial Water Pixels). The Mean Administrative Unit Area raster represents the mean input unit size in square kilometers and provides a quantitative surface that indicates the size of the input unit(s) from which population count and density rasters are created. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research communities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550185898-ESDIS",
+        "title": "Population Exposure Estimates in Proximity to Nuclear Power Plants, Country-Level Aggregates",
+        "summary": "The Population Exposure Estimates in Proximity to Nuclear Power Plants, Country-Level Aggregates data set consists of country-level estimates of total, urban, and rural populations and land area, country-wide, that are in proximity to a nuclear power plant. This data set was created using a global data set of point locations of nuclear power plants, with buffer zones at 30km, 75km, 150km, 300km, 600km, and 1200km, and the Global Population Count Grid Time Series Estimates, Version 1 to estimate the population within each buffer zone for the years 1990, 2000, and 2010. Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) Land and Geographic Unit Area Grids were used to estimate land area within each buffer zone. The GRUMPv1 Urban Extents Grid was used to further delineate population and land area estimates within urban and rural areas. All grids used for population, land area, and urban mask were of 1 km (30 arc-second) resolution.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214602155-SCIOPS",
+        "title": "Arctic Alaska population, electricity & climate",
+        "summary": "Data used for modeling and analysis in Hamilton, White, Lammers & Myerchin (2011) Population & Environment DOI 10.1007/s11111-011-0145-1",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550194487-ESDIS",
+        "title": "Millennium Ecosystem Assessment: MA Population",
+        "summary": "The Millennium Ecosystem Assessment: MA Population provides data and information on baseline population as one of the drivers of ecosystem change. The data was used in estimating the magnitude of regional pressures on ecosystems. The MA Population data sets include Gridded Population of the World (GPW) Version 3, population grids from the Alpha version of the Global Rural-Urban Mapping Project (GRUMP), Global Subnational Infant Mortality Rates (Alpha version), and Global Subnational Prevalence of Child Malnutrition (Alpha version).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214621714-SCIOPS",
+        "title": "Urban, Rural and Total Population for the Year 2000 for the World Water Development Report II",
+        "summary": "Global population fields were constructed for the year using country-level\ndemographic statistics from the World Resources Institute (WRI) Earth Trends\ndatabase (http://earthtrends.wri.org/).  The urban and rural population data\nsets were developed by spatially distributing the WRI 2000 country level\npopulation data among DMSP-OLS nighttime stable-lights imagery (Elvidge 1997a)\nand ESRI Digital Chart of the World populated places points (ESRI 1993). \nCountry-level urban population was evenly distributed among the DMSP-OLS city\nlights data set at 1-kilometer grid cell resolution with detectable lights in\nat least 10 per cent of the cloud free observations (Elvidge 1997b).  Where\navailable, the spatial extents of major city locations with known demographic\ndata (Tobler 1995) were superimposed in the DMSP-OLS city lights data set to\nenhance the accuracy of the urban population distribution.  Rural population\nwas spatially distributed equally among the DCW populated places points falling\noutside of the DMSP-OLS city lights extent.  Total population is simply the sum\nof urban and rural population data sets.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550196864-ESDIS",
+        "title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 2 (PLACE II)",
+        "summary": "The National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 2 (PLACE II) data set contains estimates of national-level aggregations of territorial extent and population size by biome, climate zone, coastal proximity zone, elevation zone, and population density zone, a compendium of nearly 300 variables for 228 countries. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550193299-ESDIS",
+        "title": "Global Population Count Grid Time Series Estimates",
+        "summary": "The Global Population Count Grid Time Series Estimates provide a back-cast time series of population grids based on the year 2000 population grid from ESDIS' Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) data set. The grids were created by using rates of population change between decades from the coarser resolution History Database of the Global Environment (HYDE) database to back-cast the GRUMPv1 population count grids. Mismatches between the spatial extent of the HYDE calculated rates and GRUMPv1 population data were resolved via infilling rate cells based on a focal mean of values. Finally, the grids were adjusted so that the population totals for each country equaled the UN World Population Prospects (2008 Revision) estimates for that country for the respective year (1970, 1980, 1990, and 2000). These data do not represent census observations for the years prior to 2000, and therefore can at best be thought of as estimations of the populations in given locations. The population grids are consistent internally within the time series, but are not recommended for use in creating longer time series with any other population grids, including GRUMPv1, Gridded Population of the World, Version 4 (GPWv4), or non-ESDIS developed population grids. These population grids served as an input to ESDIS' Global Estimated Net Migration Grids by Decade: 1970-2000 data set.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550190410-ESDIS",
+        "title": "Global Population Density Grid Time Series Estimates",
+        "summary": "The Global Population Density Grid Time Series Estimates provide a back-cast time series of population density grids based on the year 2000 population grid from ESDIS' Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) data set. The grids were created by using rates of population change between decades from the coarser resolution History Database of the Global Environment (HYDE) database to back-cast the GRUMPv1 population density grids. Mismatches between the spatial extent of the HYDE calculated rates and GRUMPv1 population data were resolved via infilling rate cells based on a focal mean of values. Finally, the grids were adjusted so that the population totals for each country equaled the UN World Population Prospects (2008 Revision) estimates for that country for the respective year (1970, 1980, 1990, and 2000).  These data do not represent census observations for the years prior to 2000, and therefore can at best be thought of as estimations of the populations in given locations. The population grids are consistent internally within the time series, but are not recommended for use in creating longer time series with any other population grids, including GRUMPv1, Gridded Population of the World, Version 4 (GPWv4), or non-ESDIS developed population grids. These population grids served as an input to ESDIS' Global Estimated Net Migration Grids by Decade: 1970-2000 data set.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550192384-ESDIS",
+        "title": "Historical Urban Population: 3700 BC - AD 2000",
+        "summary": "The Historical Urban Population, 3700 BC - AD 2000, originally developed by the Yale School of Forestry & Environmental Studies, is the first spatially explicit global data set containing location and size of urban populations over the last 6,000 years. The data set was created by digitizing, transcribing, and geocoding historical, archaeological, and census-based urban population data. Each data point consists of a city name, latitude, longitude, year, population, and a reliability ranking to assess the geographic uncertainty of each data point. Despite spatial and temporal gaps, no other geocoded data set at this resolution exists. It can therefore be used to investigate long-term historical urbanization trends and patterns, evaluate the current era of urbanization, and build a richer record of urban population through history.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3551580873-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): Population Density Grid",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): Population Density Grid consists of estimates of human population for the years 1990, 1995, and 2000 by 2.5 arc-minute grid cells and associated data sets dated circa 2000. A proportional allocation gridding algorithm, utilizing more than 300,000 national and sub-national administrative Units, is used to assign population values to grid cells. The population density grids are derived by dividing the population count grids by the land area grid and represent persons per square kilometer. The grids are available in various GIS-compatible data formats and geographic extents (global, continent [Antarctica not included], and country levels). GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540929345-ESDIS",
+        "title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Population Count Grid",
+        "summary": "The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Population Count Grid estimates human population for the years 1990, 1995, and 2000 by 30 arc-second (1 km) grid cells and associated data sets dated circa 2000. A proportional allocation gridding algorithm, utilizing more than 1,000,000 national and sub-national geographic Units, is used to assign population values (counts, in persons) to grid cells. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540929601-ESDIS",
+        "title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Population Density Grid",
+        "summary": "The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Population Density Grid estimates population per square km for the years 1990, 1995, and 2000 by 30 arc-second (1km) grid cells and associated data sets dated circa 2000. A proportional allocation gridding algorithm, utilizing more than 1,000,000 national and sub-national geographic Units, is used to assign population values to grid cells. The population count grids are divided by the land area grid to produce population density grids. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3551580850-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): Population Count Grid",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): Population Count Grid consists of estimates of human population for the years 1990, 1995, and 2000 by 2.5 arc-minute grid cells and associated data sets dated circa 2000. A proportional allocation gridding algorithm, utilizing more than 300,000 national and sub-national administrative Units, is used to assign population values to grid cells. The population count grids contain estimates of the number of persons per grid cell. The grids are available in various GIS-compatible data formats and geographic extents (global, continent [Antarctica not included], and country levels). GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550193425-ESDIS",
+        "title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population Estimates, Global Rural-Urban Mapping Project (GRUMP), Alpha Version",
+        "summary": "The Low Elevation Coastal Zone (LECZ) Urban-Rural Population Estimates consists of country-level estimates of urban, rural and total population and land area country-wide and in the LECZ, if applicable. Additionally, the data set provides the number of urban extents, their population and land area that intersect the LECZ, by city-size population classifications of less than 100,000, 100,000 to 500,000, 500,000 to 1,000,000, 1,000,000 to 5,000,000, and more than 5,000,000. All estimates are based on GRUMP Alpha data products. The LECZ was generated using SRTM Digital Elevation Model data and includes all land area that is contiguous with the coast and 10 meters or less in elevation. All grids used for population, land area, urban mask, and LECZ were of 30 arc-second (~1 km ) resolution. This data set is produced by the Columbia  University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Institute for Environment and Development (IIED).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550194187-ESDIS",
+        "title": "Latin America and the Caribbean Population Time Series",
+        "summary": "The Latin America and the Caribbean Population Time Series data set provides total population estimates using spatially consistent and comparable Units for Latin American municipalities or equivalent administrative Units for the years 1990 and 2000. The data set consists of two vector polygon layers: one layer displays population estimates for subnational administrative Units in 1990 and 2000, including population counts, density, and percent change, at the municipality level or equivalent (level 2); a second layer summarizes this information at the country level (level 0).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2784894945-ORNL_CLOUD",
+        "title": "ISLSCP II Global Population of the World",
+        "summary": "Global Population of the World (GPW) translates census population data to a latitude-longitude grid so that population data may be used in cross-disciplinary studies. There are three data files with this data set for the reference years 1990 and 1995. Over 127,000 administrative units and population counts were collected and integrated from various sources to create the gridded data. In brief, GPW was created using the following steps:\n\n    * Population data were estimated for the product reference years, 1990 and 1995, either by the data source or by interpolating or extrapolating the given estimates for other years.\n    * Additional population estimates were created by adjusting the source population data to match UN national population estimates for the reference years.\n    * Borders and coastlines of the spatial data were matched to the Digital Chart of the World where appropriate and lakes from the Digital Chart of the World were added.\n    * The resulting data were then transformed into grids of UN-adjusted and unadjusted population counts for the reference years.\n    * Grids containing the area of administrative boundary data in each cell (net of lakes) were created and used with the count grids to produce population densities.\n\nAs with any global data set based on multiple data sources, the spatial and attribute precision of GPW is variable. The level of detail and accuracy, both in time and space, vary among the countries for which data were obtained.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550193904-ESDIS",
+        "title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates (PLACE)",
+        "summary": "The National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates (PLACE) data set contains estimates of national-level aggregations of territorial extent and population size by biome, climate zone, coastal proximity, elevation and slope, a compendium of nearly 300 variables for 222 countries. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2232848311-CEOS_EXTRA",
+        "title": "Africa Population Distribution Database and Administrative Units from UNEP/GRID-Sioux Falls",
+        "summary": "The African administrative boundaries and population database is part\n      of an ongoing effort to improve global, spatially referenced\n      demographic data holdings. Such databases are useful for a variety of\n      applications including strategic-level agricultural research and\n      applications in the analysis of the human dimensions of global change\n      \n      This documentation describes the third version of a database of\n      administrative units with associated population figures for\n      Africa. The first version was compiled for UNEP's Global\n      Desertification Atlas (UNEP 1992, Deichmann and Eklundh 1991), while\n      the second version represented an update and expansion of this first\n      product (Deichmann 1994, WRI 1995). The work discussed in the\n      following paragraphs is also related to NCGIA activities to produce a\n      global database of subnational population estimates (Tobler et\n      al. 1995), and an improved database for the Asian continent (Deichmann\n      1996a). The new version for Africa provides considerably more detail:\n      more than 4700 administrative units, compared to about 800 in the\n      first and 2200 in the second version. In addition, for each of these\n      units a population estimate was compiled for 1960, 70, 80 and 90 which\n      provides an indication of past population dynamics in Africa.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2232849256-CEOS_EXTRA",
+        "title": "Global Population Distribution Database from UNEP/GRID-Sioux Falls",
+        "summary": "Population databases are forming the backbone of many important\n      studies modelling the complex interactions between population growth\n      and environmental degradation, predicting the effects of global\n      climate change on humans, and assessing the risks of various hazards\n      such as floods, air pollution and radiation. Detailed information on\n      population size, growth and distribution (along with many other\n      environmental parameters) is of fundamental importance to such\n      efforts. This database includes rural population distributions,\n      population distrbution for cities and gridded global population\n      distributions.\n      \n      This project has provided a population database depicting the\n      worldwide distribution of population in a 1X1 latitude/longitude grid\n      system. The database is unique, firstly, in that it makes use of the\n      most recent data available (1990). Secondly, it offers true\n      apportionment for each grid cell that is, if a cell contains\n      populations from two different countries, each is assigned a\n      percentage of the grid cell area, rather than artificially assigning\n      the whole cell to one or the other country (this is especially\n      important for European countries). Thirdly, the database gives the\n      percentage of a country's total population accounted for in each\n      cell. So if a country's total in a given year around 1990 (1989 or\n      1991, for example) is known, then population in each cell can be\n      calculated by using the percentage given in the database with the\n      assumption that the growth rate in each cell of the country is the\n      same. And lastly, this dataset is easy to be updated for each country\n      as new national population figures become available.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2232847815-CEOS_EXTRA",
+        "title": "AFRICA CITIES POPULATION DATABASE (ACPD)",
+        "summary": "The African Cities Population Database (ACPD) has been produced by the\nBirkbeck College of the University of London in 1990 at the request of\nthe United Nations Environment Programme (UNEP) in Nairobi, Kenya.\nThe database contains head counts for 479 cities in Africa which either\nhave a population of over 20,000 or are capitals of their nation state.\nListed are the geographical location of the cities and their population\nsizes.  The material is primarily derived from a 1988 report of the\nEconomic Commission for Africa (ECA) and several issues of the United\nNations Demographic Yearbook (1973-81). Severe problems were found with\nseveral countries such as Togo, Ghana and South Africa.  For South Africa,\nthe data were derived from the United Nations Demographic Yearbook 1987.\n \nWCPD is an Arc/Info point coverage.  It has no projection, as the cities\nare located on the basis of their latitude and longitude.  Coordinates\nwere assigned on the basis of gazetteers or African maps.  Each record\nin the data base contains details of the city name, country name,\nlatitude and longitude of the city, and its population at a defined\ntime.  The Arc/Info attribute table contains the following fields:\n \nAREA       Arc/Info item\nPERIMETER  Arc/Info item\nACPD#      Arc/Info item\nACPD-ID    Arc/Info item\nID-NUM     Unique number for each city\nCITY       City name\nCOUNTRY    Country name\nCITY-POP   Population of city proper\nYEAR       Latest available year of collection\n \nACPD comes as an Arc/Info EXPORT file originally called \"ACPD.E00\" and \ncontains 67 Kb of data.  The file has a record length of 80 and a block\nsize of 8000 (blocking factor = 100).  The file can be read from tape\nusing Arc/Info's TAPEREAD command or any other generic copy utility. \nIf distributed on a diskette it can be read using the ordinary DOS 'COPY'\ncommand.  The file has to be converted to Arc/Info internal format using\nits IMPORT command.\n \nReferences to the WCPD data set can be found in:\n \n - SERLL News, Issue No. 1, January 1991, Birkbeck College, London, UK.\n - D. Rhind.  \"Cartographically-related research at Birkbeck College\n   1987-91\" in: The Cartographic Journal, Vol. 28, June 1991, pp. 63-66.\n \nThe source of the WCPD data set as held by GRID is Birkbeck College,\nUniversity of London, Department of Geography, London, UK.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2232847365-CEOS_EXTRA",
+        "title": "World cities population database (WCPD)",
+        "summary": "The World Cities Population Database (WCPD) has been produced by the Birkbeck College of the University of London in 1990 at the request of the United Nations Environment Programme (UNEP) in Nairobi, Kenya. The database contains head counts for 3000 cities world-wide which either have a population of over 100,000 or are capitals of their nation state. Listed are the geographical location of the cities and their population sizes.  The material is primarily derived from the UN Demographic Yearbook 1987, published in 1989.  For the United Kingdom, the UNDY data were inadequate and thus were replaced with the OPCS 1981 Urban Areas volume, giving cause for concern about other countries.\n \nWCPD is an Arc/Info point coverage.  It has no projection, as the cities are located on the basis of their latitude and longitude. The coordinates were assigned on the basis of gazetteers produced by The Times, by the Permanent Committee on Geographical Names, and by other sources or by direct reference to maps.\n \nEach record in the data base contains details of the city name, country name, latitude and longitude of the city, its population at a defined time, the population of the urban agglomeration and the data compilation method.  The Arc/Info attribute table contains the following fields:\n \nAREA           Arc/Info item\nPERIMETER      Arc/Info item\nWCPD#          Arc/Info item\nWCPD-ID        Arc/Info item\nID-NUM         Unique number for each city\nCITY           City name\nCOUNTRY        Country name\nCITY-POP       Population of city proper\nPOP-AREA       Population of urban agglomeration\nYEAR           Latest available year of collection\nCEN-EST        Census/estimate in the above year;  1=census, 2=estimate\nCAP            Capital city or not; 0=all other cities, 1=capital\n \nWCPD comes as an Arc/Info EXPORT file called \"WCPD.E00\" and contains 694 Kb of data. The file has to be converted to Arc/Info internal format using its IMPORT command:\n\nIMPORT COVER WCPD.E00 WCPD\n \nReferences to the WCPD data set can be found in:\n \n - SERLL News, Issue No. 1, January 1991, Birkbeck College, London, UK.\n - D. Rhind.  \"Cartographically-related research at Birkbeck College\n   1987-91\" in: The Cartographic Journal, Vol. 28, June 1991, pp. 63-66.\n \nThe source of the WCPD data set as held by GRID is Birkbeck College, University of London, Department of Geography, London, UK.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540918701-ESDIS",
+        "title": "Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050",
+        "summary": "The Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050, data set provides a baseline population distribution for 2010 and projections from 2020 to 2050, in ten-year increments, of population distribution and internal climate-related and other migration. The projections are produced using the NCAR-CIDR Spatial Population Downscaling Model developed by the CUNY Institute for Demographic Research (CIDR) and the National Center for Atmospheric Research (NCAR). The model incorporates assumptions based on future development scenarios (Shared Socioeconomic Pathways or SSPs) and emissions trajectories (Representative Concentration Pathways or RCPs). The SSPs include SSP2, representing a middle-of-the road future, and SSP4, representing an unequal development future. Climate models using low and high emissions scenarios, RCP2.6 and RCP8.5, then drive climate impact models on crop productivity and water availability from the Inter-Sectoral Impacts Model Intercomparison Project (ISIMIP). Sea-level rise impacts in the coastal zone are estimated to be 1 meter under RCP2.6 and 2 meters under RCP8.5, to account for potential storm surge or coastal flooding. Three scenarios are generated, a pessimistic reference scenario combining SSP4 and RCP8.5, a more climate-friendly scenario combining SSP4 and RCP2.6, and a more inclusive development scenario combining SSP2 and RCP8.5, and each scenario represents an ensemble of four model runs combining different climate impact models. The modeling work was funded and developed jointly with The World Bank, and covers most World Bank client countries, with reports released in 2018 and 2021 that address different regions and provide full methodological details.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214613751-SCIOPS",
+        "title": "Declining Amphibian Populations Task Force",
+        "summary": "The Mission of the Declining Amphibian Populations Task Force (DAPTF)\n      is to determine the nature, extent and causes of declines of\n      amphibians throughout the world, and to promote means by which\n      declines can be halted or reversed\n      \n      The DAPTF was established in 1991 by the Species Survival Commission\n      (SSC) of the World Conservation Union (IUCN). The Task Force Office is\n      located at the Open University in Milton Keynes, UK. The DAPTF\n      operates through a network of Regional Working Groups. Around 90 of\n      these represent different regions of the world and collect\n      geographical data on amphibian declines and their causes. The DAPTF\n      Office seeks to maintain best practice and consistency of methodology\n      among these groups. Other, issue-based Working Groups are concerned\n      with specific topics, including: Disease and Pathology, Monitoring\n      Techniques, Chemical Contaminants, Climatic and Atmospheric Change,\n      and Captive Breeding.\n      \n      The DAPTF raises money and distributes this in the form of small Seed\n      Grants to initiate research projects in key areas, chosen by the\n      international Board of Directors. To date, our Seed Grant programme\n      has supported 74 projects.\n      \n      Task Force members and other interested parties are kept up to date\n      via our bi-monthly newsletter FROGLOG, which is sent to over 3000\n      scientists and persons interested in amphibian conservation, in over\n      100 countries. FROGLOG is also published on the internet.\n      \n      Data URL: \"http://www.open.ac.uk/daptf/index.htm\"\n      Information taken from \"http://www.open.ac.uk/daptf/index.htm\"",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540932159-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates, Revision 10 consists of UN WPP-adjusted population estimates and densities for the years 2000, 2005, 2010, 2015 and 2020, as well as the basic demographic characteristics (age and sex) for the year 2010. The data set also includes administrative name, land and water area, and data context by administrative unit center point (centroid) location. The center points are based on approximately 13.5 million input administrative units used in GPWv4, therefore, these files require hardware and software that can read large amounts of data into memory.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3552505415-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): Land and Geographic Unit Area Grids",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): Land and Geographic Unit Area Grids measure land areas in square kilometers and the mean Unit size (population-weighted) in square kilometers. The land area grid permits the summation of areas (net of permanent ice and water) at the same resolution as the population density, count, and urban-rural grids. The mean Unit size grids provides a quantitative surface that indicates the size of the input Unit(s) from which population count and density grids are derived..GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540930346-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Data Quality Indicators, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Data Quality Indicators, Revision 11 consists of three data layers created to provide context for the population count and density rasters, and explicit information on the spatial precision of the input boundary data. The Data Context raster explains pixels with a \"0\" population estimate in the population count and density rasters based on information included in the census documents, such as areas that are part of a national park, areas that have no households, etc. The Water Mask raster distinguishes between pixels that are completely water and/or ice (Total Water Pixels), pixels that contain water and land (Partial Water Pixels), pixels that are completely land (Total Land Pixels), and pixels that are completely ocean water (Ocean Pixels). The Mean Administrative Unit Area raster represents the mean input Unit size in square kilometers and provides a quantitative surface that indicates the size of the input Unit(s) from which population count and density rasters are created. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research commUnities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540911087-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Land and Water Area, Revision 11",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Land and Water Area, Revision 11 consists of two rasters that measure surface areas of land and water in square kilometers per pixel. The Land Area raster provides estimates of the land area, excluding permanent ice and water, within each pixel, and was used to calculate the population density rasters. The Water Area raster provides estimates of the water area (permanent ice and water) within each pixel. The sum of land area and water area of a pixel equals the total surface area of that pixel. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research commUnities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540928696-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Data Quality Indicators",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Data Quality Indicators consist of three data layers created to provide additional information about the quality of input population data and to provide context for the population count and density grids. The water mask distinguishes between pixels that are completely water and/or ice (Total Water Pixels) and pixels that also contain land (Partial Water Pixels). The data context grid categorizes pixels with estimated zero population based on information provided in the census documents, such as areas that are part of a national park, areas that have no households, etc. The Mean Administrative Unit Area grid measures the mean unit size in square kilometers. The mean unit size grid provides a quantitative surface that indicates the size of the input unit(s) from which population count and density grids are derived.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540931815-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Land and Water Area",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Land and Water Area Grids measure surface areas in square kilometers. The land area grid provides estimates of the land area, excluding permanent ice and water, within each pixel. The water area grid provides estimates of the water area (permanent ice and water), within each pixel. The sum of land area and water area of a pixel equals the total surface area of that pixel.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540910877-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): Land and Water Area, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): Land and Water Area, Revision 10 consists of two rasters that measure surface areas of land and water in square kilometers per pixel. The Land Area raster provides estimates of the land area, excluding permanent ice and water, within each pixel, and was used to calculate the population density rasters. The Water Area raster provides estimates of the water area (permanent ice and water) within each pixel. The sum of land area and water area of a pixel equals the total surface area of that pixel. The data files were produced as global rasters at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research communities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540930084-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): National Identifier Grid",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): National Identifier Grid is derived from the input census units to create a raster surface where pixels (grid cells) that cover the same census data source - most often a country or territory - have the same value. Note that these data represent the area covered by the statistical data as provided, and are not official representations of country or territory boundaries.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540931486-ESDIS",
+        "title": "Gridded Population of the World, Version 4 (GPWv4): National Identifier Grid, Revision 10",
+        "summary": "The Gridded Population of the World, Version 4 (GPWv4): National Identifier Grid, Revision 10 is a raster representation of nation-states in GPWv4 for use in aggregating population data. This data set was produced from the input census units which were used to create a raster surface where pixels that cover the same census data source (most often a country or territory) have the same value. Note that these data are not official representations of country boundaries; rather, they represent the area covered by the input data. In cases where multiple countries overlapped a given pixel (e.g. on national borders), the pixels were assigned the country code of the input data set which made up the majority of the land area. The data file was produced as a global raster at 30 arc-second (~1 km at the equator) resolution. To enable faster global processing, and in support of research communities, the 30 arc-second data were aggregated to 2.5 arc-minute, 15 arc-minute, 30 arc-minute and 1 degree resolutions. Each level of aggregation results in the loss of one or more countries with areas smaller than the cell size of the final raster. Rasters of all resolutions were also converted to polygon shapefiles.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214586049-SCIOPS",
+        "title": "Ocean Biogeographic Information System - Spatial Ecological Analysis of Megavertebrate Populations (OBIS-SEAMAP)",
+        "summary": "The Spatial Ecological Analysis of Marine Megavertebrate Populations (SEAMAP) initiative, a node of the Ocean Biogeographic Information System (OBIS), has developed a digital database of geo-referenced marine mammal, seabird and sea turtle distribution and abundance data.  \n\nSEAMAP seeks to augment the public understanding of the ecology of marine megavertebrates by: (1) facilitating study of potential impacts on threatened species; (2) enhancing our ability to test hypotheses about biogeographic and biodiversity models, and (3) supporting modeling efforts to predict distributional changes in response to environmental change.  To enhance the research and educational applications of this database, SEAMAP provides a broad array of products (e.g., tabular information, maps and explicit survey meta-data) and services (e.g., web-based query, visualization and analysis tools).  \n\nAdditionally, because this publicly-available system is intended for a broad audience of educators, students, resource managers and researchers, SEAMAP is integrating this digital database with educational products and analytical tools.  The OBIS-SEAMAP system takes advantage of recent technological advances to facilitate the development of new community-based data commons for biogeographic and conservation research. To date the database includes more one-million marine mammal, bird and turtle observation records from over 180 datasets.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540912071-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): Subnational Administrative Boundaries",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): Subnational Administrative Boundaries are the basis of the population data products in GPWv3. Due to copyright restrictions, only maps of the subnational administrative boundaries are available, the underlying data cannot be released. GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540910838-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): Coastlines",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): Coastlines are derived from the land area grid to show the outlines of pixels (cells) that contain administrative Units in GPWv3. The coastlines are designed for cartographic use with the GPWv3 population raster data sets. GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3552508526-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): National Administrative Boundaries",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): National Administrative Boundaries are derived from the land area grid to show the outlines of pixels (cells) that contain administrative Units in GPWv3 on a per-country/territory basis. The National Boundaries data are derived from the pixels as polygons and thus have rectilinear boundaries at large scale. Note that the polygons that outline the countries and territories are not official representations; rather, they represent the area covered by the statistical data as provided. The national/territorial boundaries are designed for cartographic use with the GPWv3 population raster data sets. GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3552509123-ESDIS",
+        "title": "Gridded Population of the World, Version 3 (GPWv3): National Identifier Grid",
+        "summary": "The Gridded Population of the World, Version 3 (GPWv3): National Identifier Grid is derived from the land area grid to create a raster surface where pixels (cells) that cover the same country or territory have the same value. Note that the countries and territories are not official representations of countries boundaries; rather, they represent the area covered by the statistical data as provided. GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214610561-SCIOPS",
+        "title": "TASC: The Role of Cross Shelf Exchange Processes in Controlling Seasonal Population Dynamics",
+        "summary": "The primary objective of this subtask of the TASC\nprogramme, is to examine the role of NSDW in a)\nfacilitation colonization of the temperate northeast\nAtlantic rim ecosystem by C. finmarchicus which is\nessentially a sub-Arctic species in terms of its global\ndistribution and b) potentially providing a link or\nteleconnection between the various ecosystems thereby\nleading to a degree of synchrony in their responses to\nclimatic forcing.\n\nAs part of this programme, investigators were researching the\nfollowing topics:\n\n1) Overwintering, across shelf advection and spring\nspawning in Shetland-Faroe and southeastern Icelandic waters\n\n2) Overwintering, advection and spring spawning south and\nsouthwest of Iceland\n\n3) Analysis of historical time series data\n\n4) Generation pattern and switching along the Norwegian\nmidshelf\n\n5) Modelling the cross-shelf dispersal of Calanus",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214614268-SCIOPS",
+        "title": "Declining Amphibian Populations Task Force Amphibian Species",
+        "summary": "(NB: Most \"records\" will have multiple Species Information spreadsheets\nassociated with them linked to the Site Information by the unique site code.\nThese may include both declining and non-declining species.)\n\n1M      Unique Site Code                (3-figure, as above)\n2M      Family:\n3M      Genus:\n4M      Species:\n5       Microhabitat Cover (shaded/not shaded)  (1=shaded, 0=not shaded)\n6       Characteristic NON-breeding Habitat (1 & 2):\n1. In stream/permanent/lowgradient\n2. In stream/permanent/high gradient\n3. In stream/temporary/low gradient\n4. In stream/temporary/high gradient\n5. In pond/permanent\n6. In pond/temporary\n7. On bank/stream/permanent/lowgradient\n8. Onbank/stream/permanent/high gradient\n9. On bank/stream/temporary/low gradient\n10. On bank/stream/temporary/high gradient\n11. On bank/pond/permanent\n12. On bank/pond/temporary\n13. On vegetation above stream/permanent/low gradient\n14. On vegetation above stream/permanent/high gradient\n15. On vegetation above stream/temporary/low gradient\n16. On vegetation above stream/temporary/high gradient\n17. On vegetation above pond/permanent\n18. On vegetation above pond/temporary\n19. On ground/dry\n20. On ground/grass/scrub\n21. On ground/temporarily flooded\n22. Permanent marsh\n23. In leaf litter\n24. Subterranean (includes under rocks & logs)\n25. Above ground in forest understory/general or unknown\n26. Above ground in forest  understory/trunks or branches\n27. Above ground in forest understory/leaves\n28. Above ground in forest understory/phytotelmata\n29. In forest canopy/general or unknown\n30. In forest canopy/trunks or branches\n31. In forest canopy/leaves\n32. In forest canopy/phytotelmata\n\n7       Characteristic BREEDING Habitat: (1 & 2) (as above, where\n\"stream\"=running\nwater & \"pond\"=still water)\n\n8       Activity Period:   (1=diurnal, 2=crepuscular, 3=nocturnal)\n\n9       % Decline of Species (0,25,50,75 or 100% -default\n25% when extent uncertain)\n\n10      First Date Absent or Definite Decrease: (e.g. 198407)\n\n11      Date of Last Available Information:     (e.g. 198711)\n\n12      Is Species Apparently Now Recovering?   (1=yes, 0=no)\n\n13      Life Stage Affected:                    (1=eggs, 2=larvae, 3=metamorphs\n4=adults, 5=more than 1 stage affected)\n\n14      Data Verification Source:  (eg. Bloggs et al. 92/1\nwhere 1= refereed paper\n2=unrefereed paper/article or report\n3=annecdotal information)\n\n15      Species Comments (other information)",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214610711-SCIOPS",
+        "title": "Mass. Institute of Technology (MIT) Greenhouse Gas Emissions Scenarios for 1995-2100 (CO2, CH4, N2O, SF6, PFC, HFC, NOx, SOx, CO, NMVOC, NH3) at 5 yr intervals",
+        "summary": "A set of three (low, high, reference) emissions scenarios for CO2,\nCH4, N2O, SF6, PFC, HFC, NOX, SOX, CO, NMVOC, NH3 and carbonaceous\nparticulates from 1995 through 2100 at 5 year intervals, provided on a\n1 degree by 1 degree latitude-longitude grid.\n\nThe scenarios were generated using the Massachusetts Institute of\nTechnology (MIT) Emissions Prediction and Policy Analysis (EPPA)\nmodel, developed by the MIT Joint Program on the Science and Policy of\nGlobal Change. The known probability characteristics were generated\nusing an uncertainty technique known as the deterministic equivalent\nmodeling method (DEMM). The emssions values were downscaled from\naggregated EPPA regions using population as weights.\n\nBriefly, the DEMM approach requires distributions for uncertain\nparameter inputs and then uses a statistical sampling technique to\ngenerate parameter sets. The full EPPA model is run with these\nparameter sets and then an nth order polynomial is fit to the outcomes\nof interest. A Monte Carlo analysis of 10,000 runs was then conducted,\nagain using the input distributions, but simulating the polynomial fit\nrather than the underlying complex model to limit computation\nrequirements. We then select parameter sets and using the underlying\ncomplex model to produce scenarios with a known probability for the\noutcomes of interest.\n\nThe 3 scenarios were selected as follows: We chose parameter sets that\nproduced the median (50 percentile value) and 97.5 percentile value\n(upper) and 2.5 percentile value (lower) limit for CO2 emissions in\n2100 (i.e. a range covering 95 percent of the\ndistribution). Conditional on these values, we then chose parameter\nsets that produced 50 percentile values for each of the other\nemissions. Conditioning the other emissions on the likelihood of the\nCO2 emissions scenarios means that emissions of the non-CO2 substances\nare higher for the scenario conditioned on the 97.5 percentile than on\nthat for the 50 percentile which are, in turn, higher than those\nconditioned on the 2.5 percentile value scenario of CO2 emissions\nbecause of generally positive correlation among emissions of these\nsubstances and CO2. This scenario selection design was chosen so that\nthe resulting scenarios are approximately 2.5, 50, 97.5 percentile\noutcomes yet retain the characteristic that the scenarios for all\nsubstances are the result of internally consistent scenarios given the\nstructure of the EPPA model.\n\nSome important caveats: These scenarios do not include emissions from\nnatural sources or sinks of carbon, other GHGs, or other\nsubstances. They include emissions of carbon and other substances from\nland use change (deforestation) and agriculture (waste burning,\nlivestock, rice production, soils) but do not include carbon sinks due\nto forest regrowth. Also, note that we include uncertainty in\nemissions for most of these substances in our base year of 1995. This\nmeans that, for a predetermined level of natural emissions and/or\nuptake, any particular anthropogenic emissions scenario in our set may\nnot be consistent with an observed trend in concentrations of gases in\nthe atmosphere (e.g. CH4, N2O).\n\nUnits: Gigagram (Gg) of compound (CO2,N2O,etc.) emitted in that cell\nper year. PFC is in Gg of CF4 equivalents. HFC is in Gg of HFC-134a\nequivalents.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550193407-ESDIS",
+        "title": "Millennium Ecosystem Assessment: MA Scenarios",
+        "summary": "The Millennium Ecosystem Assessment: MA Scenarios provides data and information on population, income, cereal production and consumption, meat production and consumption, land cover, water stress, water availability, acidification and nitrogen deposition. These scenarios provide useful insight into the complex factors that drive ecosystem change, estimating the magnitude of regional pressures on ecosystems and critical uncertainties that could undermine sustainable development. They also provide an understanding of the importance of institutions and values as the long-range outlook for the world's ecosystems depends on the course taken by global and regional development in the coming decades. The integration of changing ecosystem conditions into the global scenarios was taken as both effects and causes.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214608290-SCIOPS",
+        "title": "The IPCC Data Distribution Center: Climate Scenarios, GCMs, and Forecasts",
+        "summary": "The Intergovernmental Panel on Climate Change Data Distribution Centre\n            (IPCC/DDC) has been established to facilitate the timely distribution of a\n            consistent set of up-to-date scenarios of changes in climate and related\n            environmental and socio-economic factors for use in climate impacts\n            assessments. The intention is that these new assessments can feed into the\n            review process of the IPCC. The DCC consists of:\n            \n            - Climate Scenario Gateway\n            Includes links to baseline climate data sets and Special Report on Emissions\n            Scenarios (SRES)\n            climate scenarios.\n            \n            - GCM Archive\n            Contains monthly mean Global Climate Model (GCM) data. Data is only available\n            in GRIB format. These consist of results of IS92a and SRES GCM runs.\n            \n            - Socioeconomic Baseline\n            Contains data sets on non-climate conditions such as social, economic,\n            environmental, land use, and other factors.\n            \n            See: https://www.ipcc-data.org/\n            \n            [Summary Adapted from the IPCC/DDC Home Page]",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214590392-SCIOPS",
+        "title": "HadGEM1 climate model run for the IPCC A1B Scenario",
+        "summary": "The Hadley Centre Global Environmental Model version 1 was developed from the Met Office Unified Model New Dynamics in the period 2000-2004. It improved on the resolution available from previous Hadley Centre models and included support for interactive couplings between the atmosphere and ocean and the biosphere, atmospheric chemistry, the sulphur cycle and atmospheric aerosols. The HadGEM1 model was used by the Hadley Centre to provide input for the IPCC Fourth Assessment Report. The IPCC A1B Scenario simulation contained in this dataset is a continuation of the Historic Anthropogenic simulation reflecting a future scenario with an integrated world that is growing quickly with a global population that reaches 9 billion in 2050 and then gradually declines, which is converging socially and economically across regions, with a quick spread of new and efficient technologies. This scenario assumes that there is a balanced use of all energy sources. See Stott et al. (2006)",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214590405-SCIOPS",
+        "title": "HadGEM1 climate model run for the IPCC A2 Scenario",
+        "summary": "The Hadley Centre Global Environmental Model version 1 was developed from the Met Office Unified Model New Dynamics in the period 2000-2004. It improved on the resolution available from previous Hadley Centre models and included support for interactive couplings between the atmosphere and ocean and the biosphere, atmospheric chemistry, the sulphur cycle and atmospheric aerosols. The HadGEM1 model was used by the Hadley Centre to provide input for the IPCC Fourth Assessment Report. The IPCC A2 Scenario simulation contained in this dataset is a continuation of the Historic Anthropogenic simulation reflecting a future scenario with a more divided world of independently operating, self-reliant nations with a continuously increasing population. Economic development is regionally oriented with slower and more fragmented technological changes and improvements to per capita income. See Stott et al. (2006)",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1221420533-SCIOPS",
+        "title": "HadGEM1 climate model run for the IPCC A1B Scenario - HadGEM1-SRESA1B",
+        "summary": "The Hadley Centre Global Environmental Model version 1 was developed from the Met Office Unified Model New Dynamics in the period 2000-2004. It improved on the resolution available from previous Hadley Centre models and included support for interactive couplings between the atmosphere and ocean and the biosphere, atmospheric chemistry, the sulphur cycle and atmospheric aerosols. The HadGEM1 model was used by the Hadley Centre to provide input for the IPCC Fourth Assessment Report. The IPCC A1B Scenario simulation contained in this dataset is a continuation of the Historic Anthropogenic simulation reflecting a future scenario with an integrated world that is growing quickly with a global population that reaches 9 billion in 2050 and then gradually declines, which is converging socially and economically across regions, with a quick spread of new and efficient technologies. This scenario assumes that there is a balanced use of all energy sources. See Stott et al. (2006)",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1221420544-SCIOPS",
+        "title": "HadGEM1 climate model run for the IPCC A2 Scenario - HadGEM1-SRESA2",
+        "summary": "The Hadley Centre Global Environmental Model version 1 was developed from the Met Office Unified Model New Dynamics in the period 2000-2004. It improved on the resolution available from previous Hadley Centre models and included support for interactive couplings between the atmosphere and ocean and the biosphere, atmospheric chemistry, the sulphur cycle and atmospheric aerosols. The HadGEM1 model was used by the Hadley Centre to provide input for the IPCC Fourth Assessment Report. The IPCC A2 Scenario simulation contained in this dataset is a continuation of the Historic Anthropogenic simulation reflecting a future scenario with a more divided world of independently operating, self-reliant nations with a continuously increasing population. Economic development is regionally oriented with slower and more fragmented technological changes and improvements to per capita income. See Stott et al. (2006)",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540910107-ESDIS",
+        "title": "Africa Climate Mobility Initiative (ACMI): Bilateral Migration Projections",
+        "summary": "The Africa Climate Mobility Initiative (ACMI) Bilateral Migration Projections project bilateral migration flows at 5-year intervals from 2015 to 2050 for a combination of 2 sets of Shared Socioeconomic Pathways (SSPs) scenarios and 3 sets of Representative Concentration Pathways (RCPs) scenarios. The unit of analysis for the projections are directed migration corridors from an origin country to a receiving country in the African continent. There are 46 African countries and thus 2,070 unique directed corridors. These data underpin the African Shifts Report, produced by the ACMI and enabled by the Global Centre for Climate Mobility (GCCM). The ACMI was launched in September 2021 as a joint initiative of the GCCM, the African Union Commission (AUC), the United Nations System (UN), and the World Bank.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550194970-ESDIS",
+        "title": "Africa Climate Mobility Initiative (ACMI): Internal Migration Projections",
+        "summary": "The Africa Climate Mobility Initiative (ACMI) Internal Migration Projections project internal migration flows at 5-year intervals from 2020 to 2050 for a combination of 2 sets of Shared Socioeconomic Pathways (SSPs) scenarios and 3 sets of Representative Concentration Pathways (RCPs) scenarios. The unit of analysis is 7.5 arc-minutes, covering the entire African continent (approximately 15 km at the equator). These grid cells are drawn using a vector representation, and not a tessellation of grid cells (rasters). While the calibration and projection took place at a grid cell resolution of 2.5 arc-minutes, these data have been aggregated to a 7.5 arc-minute resolution. These data underpin the African Shifts Report, produced by the ACMI and enabled by the Global Centre for Climate Mobility (GCCM). The ACMI was launched in September 2021 as a joint initiative of the GCCM, the African Union Commission (AUC), the United Nations System (UN), and the World Bank.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3550186425-ESDIS",
+        "title": "Global Grid of Probabilities of Urban Expansion to 2030",
+        "summary": "The Global Grid of Probabilities of Urban Expansion to 2030 presents spatially explicit probabilistic forecasts of global urban land cover change from 2000 to 2030 at a 2.5 arc-minute resolution. For each grid cell that is non-urban in 2000, a Monte-Carlo model assigned a probability of becoming urban by the year 2030. The authors first extracted urban extent circa 2000 from the NASA MODIS Land Cover Type Product Version 5, which provides a conservative estimate of global urban land cover. The authors then used population densities from the Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) to create the population density driver map. They estimated the amount of new urban land in each United Nations region by 2030 in a Monte-Carlo fashion based on present empirical distribution of regional urban population densities and probability density functions of projected regional population and GDP values for 2030. To facilitate integration with other data products, CIESIN reprojected the data from Goode's Homolosine to Geographic WGS84 projection.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3540929235-ESDIS",
+        "title": "Global Urban Polygons and Points Dataset (GUPPD), Version 1",
+        "summary": "The Global Urban Polygons and Points Dataset (GUPPD), Version 1 is a global data set of 123,034 urban settlements with place names and population for the years 1975-2030 in five-year increments. The data set builds on and expands the European Commission, Joint Research Centre's (JRC) 2015 Global Human Settlement (GHS) Urban Centre Database (UCDB). The JRC Settlement Model (GHS-SMOD) data set includes a hierarchy of urban settlements, from urban centre (level 30), to dense urban cluster (level 23), to semi-dense urban cluster (level 22). The UCDB only includes level 30, whereas the GUPPDv1 adds levels 23 and 22, and uses open data sources to both check and validate the names that JRC assigned to its UCDB polygons and to label the newly added settlements. The methodology described in the documentation was able to consistently label a greater percentage of UCDB polygons than were previously labeled by JRC.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2670410720-GES_DISC",
+        "title": "IMERG and LHASA Global Landslide Exposure Maps 1.0",
+        "summary": "The Landslide Hazard Assessment for Situational Awareness (LHASA) model identifies locations with high potential for landslide occurrence at a daily temporal resolution.  LHASA combines satellite‐based precipitation estimates with a landslide susceptibility map derived from information on slope, geology, road networks, fault zones, and forest loss. When rainfall is considered to be extreme and susceptibility values are moderate to very high, a “nowcast” is issued to indicate the times and places where landslides are more probable.\n\nThis archive contains GeoTIFF Rasters that are a 16-year average (beginning of 2001 - end of 2016). The spatial coverage is from 72°N to 60°S latitude, and 180°W to 180°E longitude, based on IMERG Ver06B from the aforementioned time interval. The provided global maps of exposure to landslide hazards, are at a 30x30 arc-second resolution. These maps show the estimated exposure of population, roads, and critical infrastructure (hospitals/clinics, schools, fuel stations, power stations & distribution facilities) to landslide hazard, as modeled by the NASA LHASA model.\n\nThe data collection consists of eight files, covering the aforementioned spatial and temporal ranges, totaling approximately 20.3 GB (~2.5 GB each):\n       (1): Landslide hazard (annual average; Units: Nowcasts.yr-1)\n       (2): Landslide hazard (annual standard deviation; Units: Nowcasts.yr-1)\n       (3): Population exposure (annual average; Units: Person-Nowcasts. yr-1. km-2)\n       (4): Population exposure (annual standard deviation; Units: Person-Nowcasts. yr-1. km-2)\n       (5): Road exposure (annual average; Units: Nowcasts.km.yr-1.km-2)\n       (6): Road exposure (annual standard deviation; Units: Nowcasts.km.yr-1.km-2)\n       (7): Critical infrastructure exposure (annual average; Units: Nowcasts.element.yr-1.km-2)\n       (8): Critical infrastructure exposure (annual standard deviation; Units: Nowcasts.element.yr-1.km-2)",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2184005745-GES_DISC",
+        "title": "MERRA-2 avgM_2d_pm25_admin0, 2d, Single-Level, Country-Level Surface PM2.5 Monthly Mean Products V1 (M2_TMAX_PM25)",
+        "summary": "M2_TMAX_PM25 is a value-added product derived from the MERRA-2 aerosol monthly product M2TMNXAER_5.12.4 (or tavgM_2d_aer_Nx).  The surface concentration of fine particulate matter (PM2.5) is calculated as the sum of individual aerosol components (organic carbon, black carbon, sulfate, sea salt, and dust) (Buchard et al., 2017) and is recast from the native MERRA-2 model grid.  This data collection includes separate files for country-level (and territories) PM2.5 concentrations with and without population weighting applied. \n\nMERRA-2 Mailing List: Sign up to receive information on reprocessing of data, changing of tools and services, as well as data announcements from GMAO. Contact the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.\n\nQuestions: If you have a question, please read \"MERRA-2 File Specification Document\", “MERRA-2 Data Access – Quick Start Guide”, and FAQs linked from the ”Documentation” tab on this page. If that does not answer your question, you may post your question to the NASA Earthdata Forum (forum.earthdata.nasa.gov) or email the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C3457514542-OB_DAAC",
+        "title": "Water Quality (WQ) monitoring program for Clear Lake, CA",
+        "summary": "Clear Lake is a large, shallow, hypereutrophic lake in Northern California, USA. Clear Lake is an important water resource for the surrounding community offering many cultural and recreational opportunities and provides drinking water for more than half of the region's population. Despite these many ecosystem services, Clear Lake suffers from Harmful Algal Blooms (HABs) of cyanobacteria. This project aims to understand the lake and watershed processes contributing to the negative impacts on the lake water quality and ecosystem health with a goal of rehabilitating the lake. The UC Davis Tahoe Environmental Research Center conducted a 5-year (2019-2023) water quality monitoring program collecting monitoring data to better understand the physical, chemical, and biological processes affecting lake quality. Data from this monitoring program are publicly available through EDI at https://doi.org/10.6073/pasta/4f803082f7906f764994366a9e69c940. This project is funded by the California Department of Fish and Wildlife through California State Assembly Bill 707 (2017), the California Natural Resources Agency, and the UC Davis Tahoe Environmental Research Center. In addition to this overarching project, we completed additional biological and optical measurements over a shorter 1.5-year time period (Jul 2021 - Oct 2022) with the goal of supporting Phytoplankton Community Composition (PCC) and Cyanobacteria genera differentiation algorithm development from remotely sensed hyperspectral measurements. Three of these sampling events were completed coincident to whole-lake hyperspectral images collected by the DESIS sensor. These additional data included High-Performance Liquid Chromatography (HPLC) phytoplankton pigment data and above-water spectroradiometry (SVC HR-1024i) measurements. This additional work was supported by a NASA Office of STEM Engagement (OSE) graduate student fellowship awarded to Samantha Sharp in 2020 (Grant Number 80NSSC20K1458).",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2358089978-OB_DAAC",
+        "title": "Interdisciplinary Research in Earth Science, Long Island Sound",
+        "summary": "Integration of new remote sensing tools for characterization of tidal marsh area extent, vegetation communities and inundation regimes, and advanced retrievals of estuarine biological and biogeochemical processes with multi-disciplinary ecological, paleoecological, and socioeconomic datasets, spatial econometric models of population growth, and a novel coupled hydrodynamic-photo-biogeochemical model specifically designed for the marsh-estuarine continuum in the heavily urbanized Long Island Sound.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C2232848552-CEOS_EXTRA",
+        "title": "Physical exposition to flood",
+        "summary": "This dataset includes an estimate of the annual physical exposition to flood.\n\nIt is based on three sources:\n1) A GIS modeling using a statistical estimation of peak-flow magnitude and a hydrological model using HydroSHEDS dataset and the Manning equation to estimate river stage for the calculated discharge value.\n2) Observed flood from 1999 to 2007, obtained from the Dartmouth Flood Observatory (DFO).\n3) The frequency was set using the frequency from UNEP/GRID-Europe PREVIEW flood dataset. In area where no information was available, it was set to 50 years returning period. 4) A population grid for the year 2010, provided by LandScanTM Global Population Database (Oak Ridge, TN: Oak Ridge National Laboratory).\n\nUnit is expected average annual population (2007 as the year of reference) exposed (inhabitants) .\n\nThis product was designed by UNEP/GRID-Europe for the Global Assessment Report on Risk Reduction (GAR). It was modeled using global data.\n\nCredit: GIS processing UNEP/GRID-Europe, with key support from USGS EROS Data Center, Dartmouth Flood Observatory 2008.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214605303-SCIOPS",
+        "title": "Physical exposition to lanslides triggered by precipitations",
+        "summary": "This dataset includes an estimate of the annual physical exposition of landslide triggered by precipitations.\n\nIt depends on the combination of trigger and susceptibility defined by six parameters: slope factor, lithological (or geological) conditions, soil moisture condition, vegetation cover, precipitation and seismic conditions. A population grid for the year 2010, provided by LandScanTM Global Population Database (Oak Ridge, TN: Oak Ridge National Laboratory).\n\nUnit is expected average annual population (2010 as the year of reference) exposed (inhabitants).\n\nThis product was designed by International Centre for Geohazards /NGI for the Global Assessment Report on Risk Reduction (GAR). It was modeled using global data and aggregated to ~ 5 km resolution for distribution.\n\nCredit: GIS processing International Centre for Geohazards /NGI.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214605335-SCIOPS",
+        "title": "Physical exposition to tsunamis",
+        "summary": "This dataset includes an estimation of the annual physical exposition to tsunamis. \n\nIt is based on three sources:\n\n1) A comprehensive list of reports and scientific papers compiled and utilized in producing tsunami hazard maps as well as finding return periods of future events.\n\n2) Applying numerical tsunami models and zooming on selected areas.\n\n3) A population grid for the year 2010, provided by LandScanTM Global Population Database (Oak Ridge, TN: Oak Ridge National Laboratory).\n\nUnit is expected average annual population (2010 as the year of reference) exposed (inhabitants) .\n\nThis product was designed by International Centre for Geohazards /NGI for the Global Assessment Report on Risk Reduction (GAR).\nIt was modeled using global data.\n\nCredit: GIS processing International Centre for Geohazards /NGI.\n",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214603260-SCIOPS",
+        "title": "Africa Data Sampler (ADS): Digital Data Sets for Africa Available from the World Resources Institute (WRI)",
+        "summary": "The following information was abstracted from a WRI Publications\n      announcement:\n      \n      Africa Data Sampler (ADS)\n      \n      The ADS is an internationally comparable set of digital maps at a scale of\n      1:1 million for every country in Africa. The ADS is an integration of map\n      data from several GIS databases. Roads, rivers, settlements,\n      topography, and other essential base map features were extracted from\n      the Arc/Info version of the Digital Chart of the World (ESRI, Redlands,\n      CA).  Data representing forests, wetlands, and protected areas from the\n      Biodiversity Map Library (World Conservation Monitoring Center,\n      Cambridge, UK), and sub-national boundaries and population estimates\n      from the National Center for Geographic Information and Analysis (Santa\n      Barbara, CA) were integrated with the DCW data sets.  Over twenty\n      layers of data are available for most countries.\n      \n      The ADS comprises a CD-ROM and User's Guide.  The CD-ROM contains\n      digital maps in PC ARC/INFO format for 53 countries in Robinson\n      projection, five sample views in ArcView 1 format for each country, and\n      ARC/INFO Export files for all countries in geographic projection.\n      The 150-page User's Guide is available in both English and French and\n      gives detailed information on the ADS data sources, data quality, and\n      applications.\n      \n      The Africa Data Sampler is available on CD-ROM usable in UNIX,\n      MS-DOS, or Macintosh environments. \n      For more information on WRI publicatons on Africa, please see:\n      http://www.wri.org/",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214610787-SCIOPS",
+        "title": "Species Fungorum",
+        "summary": "The world database of fungal names (IndexFungorum; aka funindex)\ncontains over 345,000 names of fungi (including yeast, lichens,\nchromistan fungi, protozoan fungi and fossil forms) at species level\nand below derived from a number of published list\nhave the full citation from the source publication (excluding those\nfrom the last 5 years). Author citations conform with the Brummitt &\nPowell standard (now searchable on line through IPNI), or are\nindicated '{?}' thus. Many records include information on synonymy and\npublication derived from numerous acknowledged sources. You may search\nthe database by either the species name or the specific epithet.\n\nInformation was taken from \"http://www.speciesfungorum.org\".",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1626013087-SCIOPS",
+        "title": "CCAMLR Ecosystem Monitoring Program (CEMP) Parent Metadata Record",
+        "summary": "This is the parent metadata record for all CEMP sites.\n            \n\n**Purpose of CEMP:** \n            \n\nIn order to provide information of the effects of fishing on dependent species, CCAMLR set up the CCAMLR Ecosystem Monitoring Program (CEMP) in 1989. The two aims of CEMP are to:\n\n\n1) Detect and record significant changes in critical components of the marine ecosystem within the Convention Area, to serve as a basis for the conservation of Antarctic marine living resources.\n         \n\n2) Distinguish between changes due to harvesting of commercial species and changes due to environmental variability, both physical and biological.",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214155182-SCIOPS",
+        "title": "International Maize and Wheat Improvement Center Maize Research Atlases",
+        "summary": "The International Maize and Wheat Improvement Center maize research atlases are\n      three CDs, including an Africa Maize Research Atlas, an Asia Maize Research\n      Atlas, and a Latin America Maize Research Atlas.\n      \n      These three CDs, produced by CIMMYT's Natural Resources Group (NRG) and Maize\n      Program, contain spatial data including climate, soils, elevation, population,\n      land use and maize mega-environments for Sub-Saharan Africa (20W-52E, 35S-15N),\n      southern Asia (60-165E, 10S-35N), and all of Mexico, Central America, and South\n      America. In addition, climate similarity maps for dozens of major maize\n      research sites in each region are provided. All data are stored as ESRI\n      shapefiles, and MapExplorer (v. 2.0) - developed by ESRI, UK, has been included\n      for data display and query [Map Explorer is a trademark of ESRI (UK) Ltd; the\n      ESRI globe is trademark of ESRI Inc.]. Each Atlas provides a compendium of more\n      than 150 layers of digital data on climate, soils, elevation, land use,\n      population, and a range of maize-related information for the target region in a\n      stand-alone, CD format. All data are provided in ESRI shape file format. The\n      Atlases are targeted towards users with no geographic infor mation system (GIS)\n      experience, and each contains from 80 to more than 140 predesigned MapExplorer\n      projects, along with a tutorial to introduce new users to MapExplorer and the\n      data. Among other uses, the Atlas will allow researchers to characterize\n      regions of interest and target and predict the potential impacts of promising\n      germplasm or agronomic practices. The Atlas requires Microsoft Windows 95 (or\n      higher) or Windows NT (4.0 or higher), as well as 30 Mb of disk space to run\n      MapExplorer.\n      \n      1) Hodson, D.P., E. Martinez-Romero, J.W. White, J.D. Corbett, and M. Banziger.\n      2002. Africa Maize Research Atlas (v3.0). Mexico D.F.: CIMMYT. CD. ISBN:\n      970-648-031-5. AGROVOC Descriptors: Zea mays; Maize; Plant production;\n      Production factors; Agricultural soils; Land use; Human population; Cultural\n      methods; Cropping systems; Crop management; Innovation adoption; Risk; Africa\n      South of Sahara; Southern Africa; Africa; Research projects. Additional\n      Keywords: CIMMYT; SADC. AGRIS Category Codes: F01 Crop Husbandry. Dewey Decimal\n      Classification: 633.1523.\n      \n      2) Hodson, D.P., E. Martinez-Romero, J.W. White, P.G. Jones, and M. Banziger.\n      2002. Asia Maize Research Atlas (v1.0). Mexico D.F.: CIMMYT. CD. ISBN: AGROVOC\n      Descriptors: Zea mays; Maize; Plant production; Production factors;\n      Agricultural soils; Land use; Human population; Cultural methods; Cropping\n      systems; Crop management; Innovation adoption; Risk; Research projects\n      Additional Keywords: CIMMYT; AGRIS Category Codes: F01 Crop Husbandry Dewey\n      Decimal Classification: 633.1523\n      \n      3) Hodson, D.P., E. Martinez-Romero, J.W. White, J.D. Corbett, and M.\n      Banziger. 2002. Latin America Maize Research Atlas (v1.0). Mexico D.F.: CIMMYT.\n      CD. ISBN: AGROVOC Descriptors: Zea mays; Maize; Plant production; Production\n      factors; Agricultural soils; Land use; Human population; Cultural methods;\n      Cropping systems; Crop management; Innovation adoption; Risk; Research projects\n      Additional Keywords: CIMMYT; AGRIS Category Codes: F01 Crop Husbandry\n      Dewey Decimal Classification: 633.1523\n      \n      [Information taken from the Maize Research Atlas Home Page]",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214585958-SCIOPS",
+        "title": "The Cornell University Insect Collection",
+        "summary": "The Enthomology Special Collection Databases has a myriad  of \ndifferent slide collections from The Cornell University Insect Collection \n(CUIC). This site is useful for users  interested in taking specimens on\nloan. The collection's holdings are in the indicated order below and links to \nspecific information about many families:    \n\n    * Oskar Johannsen Diptera Slide Collection\n\n    * James G. Needham Ephemeroptera Slide Collection\n\n    * Blephariceridae, Ceratopogonidae, Chironomidae, Culicidae, Psychodidae,\n      Scatopsidae, Simuliidae Slide Collections\n\n    * James G. Needham Odonata Slide Collection\n\n    * Peter W. Claassen and James G. Needham Plecoptera Slide Collection\n\n    * The Pyraloid Slide Collection",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214606822-SCIOPS",
+        "title": "CO2 Surface Exchange Data Sets Used in the Goddard Institute for Space Studies (GISS) 3-Dimensional (3-D) Global Tracer Transport Model, CDIAC/DB-1006",
+        "summary": "[Source: NASA/GISS]\n                    \nThis page offers access to a number of datasets which describe the exchange of carbon dioxide between Earth's surface and atmosphere. They were used in simulations of atmospheric CO2 using the GISS three-dimensional tracer transport model.\n                    \nIndividual files according to source may be downloaded via the following links; All are gzipped ASCII-text tables and none exceed 18-kb in length.   ",
+        "start_date": null,
+        "end_date": null
+    },
+    {
+        "id": "C1214585961-SCIOPS",
+        "title": "The Field Museum : Botany and Zoology Collection Database",
+        "summary": "This site provides you with the Research and Collections on botany  and zoology\nby using multi-search engines of the Field Museum  in Chicago.  The following\nportals might be easily accessed online:      1) Botany Collection Database:\nSearch through Items with Images, Costa Rican Fungi, Economic Botany, Andean\nFlowering Plants, Bryophytes, and vTypes.  2)  NAMA Voucher Collection Project:\nA searchable database of collections and images from North American Mycological\nAssociation forays.   3) Neotropical Erythroxylum: The systematics of\nNeotropical Erythroxylum - specimen data of Dr. Timothy Plowman - Contains\napproximately 9500 catalogue records.  4) Singer Index - Mushrooms:  Index to\nall of the genera, species, and infraspecific taxa described by Singer, and\nbibliography of Singer's 440 publications.  5) VPlants: This site provides\nimages and information on all of the plant specimens from the Chicago region,\nincluding southeast Wisconsin and northwest Indiana, that are housed at The\nField Museum,  Morton Arboretum, and Chicago Botanic Garden.   6) Birds:\nCollection database of the Division of Birds. Contains approximately 430,000\ncatalogue records.    7) Fishes Contains approximately 88,000 catalogue\nrecords.  8) Insects- Diptera: Inventory of the fly collection.   9)\nInvertebrates: Includes Hubricht Collection of Eastern North American land\nsnails and families from The Field Museum's main collection.   10) Mammals:\nReptiles & Amphibians -  Contains over 258,000 catalog records.   11) Thermal\nVent Invertebrates.   12) Database of The Field Museum's Collection of\nHydrothermal Vent Invertebrates.",
+        "start_date": null,
+        "end_date": null
+    }
+]

@@ -1,0 +1,15 @@
+
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run download_data",
+            "type": "shell",
+            "command": "/home/imuondo/.animoos_earth/bin/python",
+            "args": [
+                "${workspaceFolder}/backend/services/download_data.py"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}
