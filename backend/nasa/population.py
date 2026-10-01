@@ -15,8 +15,7 @@ headers = {
 
 params = {
     "keyword": "population",
-    "page_size": 100,
-	 "bounding_box[]": "11.6,-18.1,24.1,-4.3"
+	"page_size": 100
 }
 
 BASE_DIR = Path(__file__).resolve().parents[2]
@@ -35,7 +34,7 @@ def download_nasa_data():
 	if (response.ok):
 		print("Succefull request")
 		data = response.json()
-		with open(nasa_file, "w", encoding="utf-8") as f:
+		with open(nasa_file, "w") as f:
 			json.dump(data, f, ensure_ascii=False, indent=4)
 
 	else:
@@ -52,15 +51,14 @@ def download_population_data():
 		data = response.json()
 		population_entries = []
 		for entry in data.get("feed", {}).get("entry", []):
-			if entry.get("title"):
+			if "population" in (entry.get("title") or "").lower() and "SEDAC" in (entry.get("data_center") or ""):
 				population_entries.append({
 					"id": entry.get("id"),
 					"title": entry.get("title"),
 					"summary": entry.get("summary"),
-					"start_date": entry.get("start_date"),
-					"end_date": entry.get("end_date"),
 				})
-		with open(population_file, "w", encoding="utf-8") as f:
+			print("id:", entry.get("id"))
+		with open(population_file, "w") as f:
 			json.dump(population_entries, f, ensure_ascii=False, indent=4)
 
 
