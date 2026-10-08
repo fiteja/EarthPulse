@@ -2,4 +2,8 @@ requests
 rasterio
 xarray
 fastapi
-netCDF4 h5netcdf
+netCDF4 
+h5netcdf
+earthaccess
+geopandas
+numpy

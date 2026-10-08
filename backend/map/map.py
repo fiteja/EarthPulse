@@ -8,18 +8,19 @@ params = {
 
 }
 
-info = requests.get(url).json()
+def draw_map():
+    info = requests.get(url).json()
 
-map = info["gjDownloadURL"]
+    map = info["gjDownloadURL"]
 
-gdf = gpd.read_file(map)
-print(gdf)
+    gdf = gpd.read_file(map)
+    print(gdf)
 
-BASE_DIR = Path(__file__).resolve().parents[1]
-DIR = BASE_DIR / "nasa_data"
+    BASE_DIR = Path(__file__).resolve().parents[1]
+    DIR = BASE_DIR / "nasa_data"
 
-DIR.mkdir(parents=True, exist_ok=True)
+    DIR.mkdir(parents=True, exist_ok=True)
 
-PATH = DIR / "angola.gpkg" 
-gdf.to_file(PATH, driver="GPKG")
-print("Criado angola.gpkg")
+    PATH = DIR / "angola.gpkg" 
+    gdf.to_file(PATH, driver="GPKG")
+    print("Criado angola.gpkg")
