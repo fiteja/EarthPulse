@@ -1,0 +1,12 @@
+{
+  "provinces": {
+    "source": "geoboundaries-api",
+    "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AGO/ADM1/geoBoundaries-AGO-ADM1_simplified.geojson",
+    "attribution": "geoBoundaries (CC BY 4.0)",
+    "count": 18
+  },
+  "countries": {
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "attribution": "Natural Earth (domínio público)"
+  }
+}
